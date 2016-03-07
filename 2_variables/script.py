@@ -17,3 +17,7 @@ print 'My Boolean =', my_boolean
 #Re assigned
 my_int = 500
 print 'Re assigned My Int =', my_int
+
+#String
+name = "Therachart Wicheanrat"
+print 'My name is', name

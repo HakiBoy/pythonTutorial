@@ -1,2 +1,3 @@
 # pythonTutorial
-This project is code for python tutorial.
+This project is python tutorial code.
+I use this to learn python.
